@@ -41,8 +41,11 @@ Automatically provides diet recommendations based on BMI category:
 ├── User.java
 └── BMIRecord.java
 
-/database
-└── schema.sql
+## 📦 Database (Included)
+The file `cbp_dump.sql` inside the `database/` folder contains the full exported database including:
+- Table structures
+- All inserted data
+- Constraints and indexes
 
 
 
